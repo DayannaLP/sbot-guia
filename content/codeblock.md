@@ -1,26 +1,14 @@
 ---
-title: "Syntax Highlighting"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+title: "Funciones S-BOT"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
+#### S-BOT tiene una cantidad de funciones de interés que podrían facilitar tu aprendizaje para la introducción y estancia en el mundo de la automatización como:
 
-```javascript
-import React from 'react';
-```
-
-Supports multiple languages.
-
-The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
-
-```javascript
-- const data = ['1','2'];
-+ const data = [1,2];
-```
-
-## Live Editing example
-
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```
+* Base de datos relacionales y no relacionales
+* AS400
+* Aplicativos Web
+* Sistemas de archivos FTP
+* Simular puntos de ventas POS con sistema operativo IBM/Toshiba 4690
+* Backend de API
+* APPs y móviles
+* Microservicios con Rabbit MQ e IBM MQ

@@ -1,26 +1,60 @@
 ---
-title: "Sub Page"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
+title: "Selectores"
+metaTitle: "Selectores"
 metaDescription: "This is the meta description for this page"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
+- [Selector XPATH](#selector-xpath)
+- [Selector ID](#selector-id)
+- [Selector ClassName](#selector-classname)
+- [Selector CssSelector](#selector-cssselector)
+- [Selector LinkText](#selector-linktext)
+- [Selector Name](#selector-name)
+- [Selector TagName](#selector-tagname)
 
-```javascript
-import React from 'react';
-```
+#### Selector XPATH
 
-Supports multiple languages.
+Este selector permite usar el valor de un campo en **XPATH** en el inspector de elementos de una página y así poder tener una acción automatizada en S-BOT
 
-The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
+![Click-XPATH](./XPATH/Click-XPATH.png)
 
-```javascript
-- const data = ['1','2'];
-+ const data = [1,2];
-```
+![Click-XPATH](./XPATH/XPATH.png)
 
-## Live Editing example
+#### Selector ID
 
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```
+Este selector permite usar el valor de **ID** en el inspector de elementos de una página y así poder tener una acción como el click automatizada en S-BOT
+
+![Click-ID](./ID/ID.png)
+
+![Click-IDExplorador](./ID/ID-Explorador.png)
+
+#### Selector ClassName
+Este selector permite usar el valor de la clase de un elemento **class** en el inspector de elementos de una página y así poder tener una acción como el click automatizada en S-BOT
+
+![ClassName-SBOT](./ClassName/SBOT-ClassName.png)
+
+![ClassName-Explorador](./ClassName/explorador.png)
+
+![ClassName-Inspector](./ClassName/inspector.png)
+
+#### Selector CssSelector
+Este selector permite usar el valor de la clase de un elemento **CssSelector** en el iunspector de elementos de una página y así tener una acción como el click automatizada en S-BOT
+
+![ClassName-SBOT](./CssSelector/SBOTCssSelector.png)
+
+![ClassName-SBOT](./CssSelector/CssSelectorExplorador.png)
+
+![ClassName-SBOT](./CssSelector/CssSelectorEstilos.png)
+
+
+#### Selector LinkText
+
+
+#### Selector Name
+Este selector permite usar el valor de un selector **name** en el inspector de elementos de una página y así poder tener una acción automatizada en S-BOT
+
+![Click-Name](./Name/SBOT-Name.png)
+
+![Click-NameExplorador](./Name/inspector-name.png)
+
+#### Selector TagName
