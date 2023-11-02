@@ -685,6 +685,7 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 16px;
     margin-top: 32px;
+    color: #FA8432;
   }
 
   .heading4 {

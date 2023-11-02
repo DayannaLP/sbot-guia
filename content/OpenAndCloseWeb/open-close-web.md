@@ -10,22 +10,26 @@ Al seleccionar la opción "headless" esta permite ejecutar una automatización w
 
 Al seleccionar la opción "incognito" esta permite abrir una página web en modo incognito en el explorador Chrome
 
-![SBOT-incognito](src/Chrome/Modo%20incognito/incognito1.png)
-![Explorador-incognito](src//Chrome/Modo%20incognito/explorador.png)
+![SBOT-incognito](./img/Modo-incognito/incognito1.png)
+
+![Explorador-incognito](./img/Modo-incognito/explorador.png)
 
 ### Función None
 
 Al seleccionar la opción "none" esta permite abrir una página web en el explorador Chrome por defecto teniendo seleccionada la opción none
 
-![SBOT-None](src/Chrome/Opción%20None/None1.png)
-![Explorador-None](src/Chrome/Opción%20None/Chrome.png)
+![SBOT-None](./img/Opcion-None/None1.png)
 
-### Función Maximized 
+![Explorador-None](./img/Opcion-None/Chrome.png)
+
+### Función Maximized
 Al seleccionar la opción "maximized" esta permite abrir una página web en el explorador Chrome en pantalla completa
-![SBOT-Maximized](src/Chrome/Opción%20maximized/maximized1.png)
-![SBOT-Maximized](src/Chrome/Opción%20maximized/max-chrome.png)
+
+![SBOT-Maximized](./img/Opcion-maximized/maximized1.png)
+
+![SBOT-Maximized](./img/Opcion-maximized/max-chrome.png)
 
 ### Función AdBlock
 Al seleccionar la opción "Adblock" esta permite activar AdBlock para bloquear los anuncios de una página web en el explorador Chrome
 
-![SBOT-AdBlock](src/Chrome/Opción%20AdBlock/AdBlock.png)
+![SBOT-AdBlock](img/Opcion-AdBlock/AdBlock.png)
