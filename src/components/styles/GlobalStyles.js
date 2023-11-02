@@ -57,6 +57,8 @@ export const baseStyles = css`
     text-decoration: none;
   }
   .displayInline {
+    height:90px;
+    color: white;
     display: inline-block;
   }
   .navBarToggle {

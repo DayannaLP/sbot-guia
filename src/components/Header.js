@@ -4,6 +4,7 @@ import { StaticQuery, graphql } from 'gatsby';
 import GitHubButton from 'react-github-btn';
 import Link from './link';
 import Loadable from 'react-loadable';
+import logo from './images/SBOT-S.svg'
 
 import config from '../../config.js';
 import LoadingProvider from './mdxComponents/loading';
@@ -76,7 +77,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
       }
     `}
     render={(data) => {
-      const logoImg = require('./images/SBOT.svg');
+      
       const {
         site: {
           siteMetadata: { helpUrl, headerLinks },
@@ -90,7 +91,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
             <div className={'navBarHeader'}>
                 <img
                   className={'img-responsive displayInline'}
-                  src={'./images/SBOT.svg'}
+                  src={logo}
                   alt={'SBOT'}
                 />
             

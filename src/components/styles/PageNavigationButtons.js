@@ -9,6 +9,12 @@ export const StyledNextPrevious = styled('div')`
   column-gap: 24px;
   grid-template-columns: calc(50% - 8px) calc(50% - 8px);
 
+
+  .img-responsive {
+    height: 90px;
+  }
+
+
   .previousBtn {
     cursor: pointer;
     -moz-box-align: center;
