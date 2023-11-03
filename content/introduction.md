@@ -1,7 +1,7 @@
 ---
 title: "S-BOT"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "S-BOT"
+metaDescription: "S-BOT"
 ---
 
 <p style="text-align: justify;"> S-BOT es un software de automatización de procesos y prueba con enfoque grafico que facilita su uso.

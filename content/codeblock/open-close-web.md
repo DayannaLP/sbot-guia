@@ -1,4 +1,10 @@
-﻿### Función Headless
+﻿---
+title: "Funciones WEB"
+metaTitle: "WEB"
+metaDescription: "This is web"
+---
+
+### Función Headless
 
 Al seleccionar la opción "headless" esta permite ejecutar una automatización web sin interfaz gráfica utilizando el explorador Chrome y visualizando que está siendo ejecutada en el administrador de tareas
 ![SBOT-Headless](./OpcionHeadless/HEADLESS-SBOT.png)
