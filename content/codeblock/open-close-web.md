@@ -1,7 +1,7 @@
 ﻿---
 title: "Funciones WEB"
-metaTitle: "WEB"
-metaDescription: "This is web"
+metaTitle: "sbot documentacion"
+metaDescription: "sbot web"
 ---
 
 ### Función Headless
