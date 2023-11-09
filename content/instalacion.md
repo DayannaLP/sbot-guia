@@ -1,17 +1,19 @@
 ---
 title: "Instalación de S-BOT"
+metaTitle: "Instalación de S-BOT"
+metaDescription: "Requisitos para instalar S-BOT"
 ---
 
 <p style="text-align: justify;">
 
-### Requisitos Mínimos:
+## Requisitos Mínimos
 
 - Sistema operativo: Windows 7 ó superior
 - Procesador: Intel Core i3 2 GHz o equivalente
 - Memoria RAM: 4 GB o superior
 - Espacio en disco: 1 GB de espacio libre en disco
 
-### Requisitos Recomendados:
+## Requisitos Recomendados
 
 - Sistema operativo: Windows 10 o superior
 - Procesador: Intel Core i5 2 GHz o equivalente
