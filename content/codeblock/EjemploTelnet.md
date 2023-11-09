@@ -1,5 +1,5 @@
 ---
-title: "Conexión de ejemplo a TELNET con SBOT"
+title: "Conexión de ejemplo a TELNET"
 ---
 
 #### 1. Crear una automatización en AS400 en SBOT
