@@ -1,5 +1,5 @@
 ---
-title: "Conexión de ejemplo TELNET"
+title: "Conexión de ejemplo a TELNET"
 ---
 
 #### Conexión AS400
