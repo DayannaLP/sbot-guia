@@ -12,7 +12,8 @@ La opción **headless** permite ejecutar la automatización web sin mostrar la i
 
 ![Admin-Headless](./OpcionHeadless/HEadless.png)
 
-## Función Maximized 
+## Función Maximized
+
 La opción **maximized** se refiere a la capacidad de abrir la ventana del navegador con tamaño máximo, ocupando toda la pantalla disponible. La ventana del navegador se expandirá para aprovechar al máximo el espacio de visualización, proporcionando una experiencia de navegación a pantalla completa. Esta característica es útil para aquellos usuarios que desean optimizar su espacio de trabajo y tener una vista más amplia de los contenidos web, eliminando la necesidad de ajustar manualmente el tamaño de la ventana cada vez que abren el navegador.
 
 ![SBOT-Maximized](./OpcionMaximized/maximized1.png)
