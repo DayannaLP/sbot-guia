@@ -1,5 +1,5 @@
 ---
-title: "Instalación"
+title: "Instalación de S-BOT"
 ---
 
 <p style="text-align: justify;">
@@ -11,8 +11,6 @@ title: "Instalación"
 - Memoria RAM: 4 GB o superior
 - Espacio en disco: 1 GB de espacio libre en disco
 
-</p>
-
 ### Requisitos Recomendados:
 
 - Sistema operativo: Windows 10 o superior
@@ -21,3 +19,5 @@ title: "Instalación"
 - Espacio en disco: 2 GB de espacio libre en disco o superior (preferiblemente en disco sólido)
 - Resolución de pantalla: 1920 x 1080 o superior
 - Conexión a internet por cable o inalámbrica (WiFi)
+
+</p>
