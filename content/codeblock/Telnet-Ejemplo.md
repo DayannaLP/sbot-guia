@@ -4,7 +4,7 @@ title: "Telnet Ejemplo"
 
 #### 1. Crear una automatización en AS400 en SBOT
 
-Anteriormente se visualizó la ejecución en SBOT de una pantalla de AS400, en este paso realizaras una automatización en AS400.
+En este paso realizaras una automatización en AS400.
 
 1. Se selecciona la opción "New Running Plan" en RPA
 
