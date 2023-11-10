@@ -2,13 +2,13 @@
 title: "Funciones TELNET"
 ---
 
-### Botón SWITCH 
+## Botón SWITCH 
 
 Al abrir S-BOT en la parte superior derecha se tiene un botón switch donde al seleccionar se abre una ventana donde se encuentra una terminal para ejecutar funcionalidades basadas en AS400 y otras tecnologías
 
 ![Boton-switch](./TELNET/botonswitch.png)
 
-### Panel de funciones
+## Panel de funciones
 
 Este panel de funciones aparece al dar segundo clic en la barra superior gris y tendremos funciones como:
 
@@ -25,7 +25,7 @@ En este caso nos enfocaremos en la función **TELNET**
 
 ![TELNET](./TELNET/funciones.png)
 
-### Función TELNET Connection
+## Función Telnet Connection
 
 Al seleccionar la función _new telnet connection_ nos encontramos con campos como **HOST**, **PORT** y **System type**.
 
@@ -45,7 +45,7 @@ Al seleccionar DLLOQA en HOST y seleccionar Clearpath SINCO se habilitan opcione
 
 ![HOST3](./TELNET/HOST.png)
 
-### ACCESO A AS400
+## Acceso a AS400
 
 Para ingresar a AS400 desde TELNET se debe ingresar: 
 - en el campo **HOST** la siguiente información: **PUB400.COM** 

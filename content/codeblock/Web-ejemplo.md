@@ -2,7 +2,7 @@
 title: "Web Ejemplo"
 ---
 
-### Automatización web en S-BOT
+## Automatización web en S-BOT
 
 En este paso realizaras una automatización web en SBOT
 

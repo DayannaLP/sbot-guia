@@ -2,7 +2,7 @@
 title: "Telnet Ejemplo"
 ---
 
-### Automatización en AS400 en S-BOT
+## Automatización en AS400 en S-BOT
 
 En este paso realizaras una automatización en AS400.
 
