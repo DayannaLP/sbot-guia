@@ -2,11 +2,6 @@
 title: "Funciones TELNET"
 ---
 
-La tecnologia TELNET es la tecnologia que viene desde los años 60 y consiste en programas como cobol 
-
-S-BOT es capaz de automatizar en 
-
-
 #### Botón SWITCH 
 
 Al abrir S-BOT en la parte superior derecha se tiene un botón switch donde al seleccionar se abre una ventana donde se encuentra una terminal para ejecutar funcionalidades basadas en AS400 y otras tecnologías
