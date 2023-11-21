@@ -11,6 +11,6 @@ title: "¿Qué es S-BOT?"
 
  La idea surge como la oportunidad de mantener vigentes, eficientes y competitivos los servicios de aseguramiento de la calidad y las pruebas que tiene SEQUAL para sus clientes frente a los cambios acelerados que sufre el mercado de este sector. </p>
 
-# Links
+## Links
 
 * Página oficial: [S-BOT.co](https://sbot.co)

@@ -2,9 +2,7 @@
 title: "Funcionalidades de S-BOT"
 ---
 
-## Funcionalidades de S-BOT
-
-S-BOT tiene una amplia cantidad de funcionalidades que podrían facilitar la introducción, aprendizaje y ejeución de las pruebas automatizadas de software de las siguientes tecnologías:
+#### S-BOT tiene una amplia cantidad de funcionalidades que podrían facilitar la introducción, aprendizaje y ejecución de las pruebas automatizadas de software de las siguientes tecnologías:
 
 * [AS400 (Mainframe)](https://guia.sbot.co/codeblock/Funciones-TELNET)
 * [Aplicativos Web](https://guia.sbot.co/codeblock/Funciones-WEB)
