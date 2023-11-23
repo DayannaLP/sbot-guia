@@ -87,6 +87,8 @@ En este campo se puede realizar un test de funcionalidad antes de ejecutar la au
 
 ## Acción Scroll web
 
+Scroll web es una funcionalidad que permite ubicarse en una sección en especifico de una página web.
+
 ### Campo Scroll Pixels
 
 En este campo se puede realizar scroll en la página en una sección en especifico ingresando los pixeles.
@@ -105,7 +107,7 @@ Al seleccionar este select se puede realizar scroll hasta el bottom (abajo/foote
 
 ## Acción Set web
 
-Set web es una funcionalidad que posee <a href="http://localhost:8000/codeblock/Selectores" target="_self"> selectores </a> y es utilizada para ingresar información en un formulario según el <a href="http://localhost:8000/codeblock/Selectores" target="_self"> selectores </a> seleccionado se ingresa la información requerida, esta acción posee los siguientes campos: 
+Set web es una funcionalidad que posee [selectores](https://guia.sbot.co/codeblock/Selectores) y es utilizada para ingresar información en un formulario según el [selector](https://guia.sbot.co/codeblock/Selectores) seleccionado se ingresa la información requerida, esta acción posee los siguientes campos: 
 
 * Text: Se ingresa la información que se requiere en el formulario
 * Description: Se ingresa la información descriptiva para identificar facilmente cual es el campo.
@@ -116,7 +118,7 @@ Set web es una funcionalidad que posee <a href="http://localhost:8000/codeblock/
 
 ## Acción Get web
 
-Get web es una funcionalidad que posee <a href="http://localhost:8000/codeblock/Selectores" target="_self"> selectores </a> y es utilizada para extraer información de una página web y almacenar la información en una variable, esta acción posee los siguientes campos:
+Get web es una funcionalidad que posee [selectores](https://guia.sbot.co/codeblock/Selectores) y es utilizada para extraer información de una página web y almacenar la información en una variable, esta acción posee los siguientes campos:
 
 * Attribute: Se selecciona de una lista desplegable el atributo del campo a extraer
 * VAR: Se ingresa el nombre de una variable donde será almacenada la información extraida
@@ -128,7 +130,7 @@ Get web es una funcionalidad que posee <a href="http://localhost:8000/codeblock/
 
 ## Acción Keyboard web
 
-Keyboard web es una funcionalidad que posee <a href="http://localhost:8000/codeblock/Selectores" target="_self"> selectores </a> y es utilizada para simular un botón en una  página web, esta acción posee los siguientes botones: Enter, back space, escape y tab.
+Keyboard web es una funcionalidad que posee [selectores](https://guia.sbot.co/codeblock/Selectores) y es utilizada para simular un botón en una  página web, esta acción posee los siguientes botones: Enter, back space, escape y tab.
 
 * Enter: Funciona como el botón "enter" del teclado.
 * Back_space: Funciona como el botón de "borrar" del teclado.

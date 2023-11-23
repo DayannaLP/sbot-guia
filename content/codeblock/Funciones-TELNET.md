@@ -8,7 +8,7 @@ Al abrir S-BOT en la parte superior derecha se tiene un botón switch donde al s
 
 ![Boton-switch](./TELNET/botonswitch.png)
 
-## Panel de funciones
+## Panel de funciones TELNET
 
 Este panel de funciones aparece al dar segundo clic en la barra superior gris y tendremos funciones como:
 
@@ -57,3 +57,26 @@ Para ingresar a AS400 desde TELNET se debe ingresar:
 Al aceptar la información ingresada de AS400 se muestra la siguiente pantalla.
 
 ![AS400](./AS400/start.png)
+
+
+## Panel de funciones TELNET en SBOT
+
+## Acción Open and Close TELNET
+
+Open and close Telnet cumple la función de abrir (open) un HOST de TELNET como [AS400] y al finalizar un proceso, cerrarlo (close), posee los siguientes campos: 
+
+* HOST: Se ingresa el HOST de telnet para conectarse
+* System type: Se selecciona el tipo de sistema como AS400
+* Options: Se selecciona si se requiere enter key o SSH.
+
+![OPENANDCLOSE](./OpenCloseTelnet/OpenClose.png)
+
+![OPENANDCLOSE](./OpenCloseTelnet/HOST.png)
+
+## Acción Set Step
+
+Set step cumple la función de ingresar (set) información  
+
+## Acción Get Step
+
+## Acción 
